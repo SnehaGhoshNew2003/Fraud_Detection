@@ -19,7 +19,8 @@ The dataset used contains transactional data with the following:
 - Sender and receiver IDs
 
 Missing values were handled carefully, especially where merchant balances were zero but actually unknown.
-[Link:] [https://www.kaggle.com/code/benroshan/transaction-fraud-detection/input]
+
+- **[Dataset Link](https://www.kaggle.com/code/benroshan/transaction-fraud-detection/input)**
 
 ## Data Cleaning and Feature Engineering
 - Zero merchant balances were treated as missing to prevent bias.
